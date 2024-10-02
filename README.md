@@ -1,0 +1,1 @@
+This program allows for a person or an AI with a simple strategy to play a game of Euchre. The main purpose of this project is to become more familiar with derived classes, inheritance, and polymorphism in C++.
